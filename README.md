@@ -5,4 +5,5 @@ At first **.stickyHeader** class is written in the style.css file, where a anima
 Animation "alamin" is written with a keyword **@keyframes** and has two values (from - to) of top background.
 
 Then a JavaScript (JS) code is written in the **script.js** file. This JS code adds and removes "stickyHeader" class with another class ".navbar". Besides it works when the page is scrolled 200px or more.
+
 <ins>**Back to Top button is applied here:** </ins>
