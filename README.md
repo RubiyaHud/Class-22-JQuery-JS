@@ -1,4 +1,4 @@
-<ins>**Sticky Header is applied here:** </ins>
+<ins>##**Sticky Header is applied here:** </ins>
 
 At first **.stickyHeader** class is added in the style.css file, which has an animation property with a value "alamin" and a duration 1s (second).
 
