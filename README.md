@@ -7,7 +7,7 @@ Animation "alamin" is defined with a keyword **@keyframes** and has two values (
 Then a JavaScript (JS) code is written in the **script.js** file. This JS code adds and removes "stickyHeader" class with another class ".navbar". Besides it works when the page is scrolled 200px or more.
 
 ### <ins>**Back to Top button** </ins>
-At first take a div with a class **"back-to-top"**, where an icon i is taken from fontawesome.
+At first, a div with class **"back-to-top"** is taken. Inside this div, an anchor tag is defined which carries an icon i from fontawesome.
 
 Write CSS code for **"back-to-top"** class and the **"back-to-top"** icon in style.css file.
 
