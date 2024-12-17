@@ -19,5 +19,5 @@ JavaScript Code for **"back-to-top"** class is written in the script.js file.
 
 Atfirst, the section id name is written in the href="#" of corresponding Menu, for example: 
 
-**<a class="nav-link" href="#servicePart">Service</a>**
+**(a class="nav-link" href="#servicePart") Service (/a)**
 
