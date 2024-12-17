@@ -21,7 +21,5 @@ Atfirst, the section id name is written in the href="#" of corresponding Menu, f
 
 **(a class="nav-link" href="#servicePart") Service (/a)**
 
-Then body{
-    scroll-behavior: smooth;
-} 
+Then ** body{ scroll-behavior: smooth; } **
 
