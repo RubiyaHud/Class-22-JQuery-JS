@@ -6,4 +6,4 @@ Animation "alamin" is written with a keyword **@keyframes** and has two values (
 
 Then a JavaScript (JS) code is written in the **script.js** file. This JS code works when the page is scrolled 200px or more, by adding/removing "stickyHeader" class.
 
-**Back to Top button is applied here:**
+<ins>**Back to Top button is applied here:** </ins>
