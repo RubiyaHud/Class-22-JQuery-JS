@@ -9,6 +9,6 @@ Then a JavaScript (JS) code is written in the **script.js** file. This JS code a
 ### <ins>**Back to Top button** </ins>
 At first, a div with class **"back-to-top"** is taken. Inside this div, an anchor tag is defined which carries an icon i from fontawesome.
 
-Write CSS code for **"back-to-top"** class and the **"back-to-top"** icon in style.css file.
+CSS code for **"back-to-top"** class and **"back-to-top i"** are defined in style.css file.
 
-#### CSS Code for both of the classes <ins>.stickyHeader </ins> and <ins>.back-to-top </ins> are written below the All Common CSS Code.
+#### CSS Code for both classes <ins>.stickyHeader </ins> and <ins>.back-to-top </ins> are written below the All Common CSS Code.
